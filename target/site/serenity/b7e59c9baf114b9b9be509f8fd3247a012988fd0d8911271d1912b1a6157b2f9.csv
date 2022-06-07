@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Test CRUD","This test will create a user","SUCCESS","2022-06-07T20:37:29.615+01:00[Europe/London]","0.0","3.36"
+"Test CRUD","This test will login a user","SUCCESS","2022-06-07T20:37:33.199+01:00[Europe/London]","0.0","0.18"
+"Test CRUD","This test will update a user","SUCCESS","2022-06-07T20:37:33.374+01:00[Europe/London]","0.0","0.18"
+"Test CRUD","This test will delete user","SUCCESS","2022-06-07T20:37:33.552+01:00[Europe/London]","0.0","0.18"
+"Test CRUD","1. This will verify all details","SUCCESS","2022-06-07T20:37:33.729+01:00[Europe/London]","0.0","0.21"

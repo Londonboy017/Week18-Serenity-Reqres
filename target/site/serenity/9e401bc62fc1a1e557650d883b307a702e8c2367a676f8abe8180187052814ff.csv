@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Test CRUD","Verify is User is added or not(*** unable to fetch data of new user ***)","FAILURE","2022-06-07T20:37:32.992+01:00[Europe/London]","0.0","0.19"

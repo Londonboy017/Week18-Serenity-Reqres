@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="in.reqres.crudtest.TestCRUD" skipped="0" tests="6" time="4.29" timestamp="2022-06-07T20:37:29.615+01:00[Europe/London]"><testcase classname="in.reqres.crudtest.TestCRUD" name="This test will create a user"/><testcase classname="in.reqres.crudtest.TestCRUD" name="Verify is User is added or not(*** unable to fetch data of new user ***)"><failure message="&#10;Expected: map containing [ANYTHING-&gt;&quot;Jason97648&quot;]&#10;     but: map was []" type="java.lang.AssertionError">
+Expected: map containing [ANYTHING-&gt;"Jason97648"]
+     but: map was []</failure><system-err>
+Expected: map containing [ANYTHING-&gt;"Jason97648"]
+     but: map was []&#13;
+in.reqres.crudtest.TestCRUD.test002(TestCRUD.java:46)&#13;
+</system-err></testcase><testcase classname="in.reqres.crudtest.TestCRUD" name="This test will login a user"/><testcase classname="in.reqres.crudtest.TestCRUD" name="This test will update a user"/><testcase classname="in.reqres.crudtest.TestCRUD" name="This test will delete user"/><testcase classname="in.reqres.crudtest.TestCRUD" name="1. This will verify all details"/></testsuite>
